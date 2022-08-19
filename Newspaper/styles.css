@@ -1,0 +1,40 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 0 ;
+}
+
+.header > div{
+    /* float: left; */
+    font-size: 18px;
+}
+
+#logo {
+    padding: 50px 0 50px;
+}
+
+.sector {
+    display: flex;
+
+}
+
+.sector > div{
+    border-right: 2px solid #000;
+    flex: 1;
+    padding: 10px;
+}
+
+.sub-sector {
+    display: flex;
+}
+
+.sub-sector > div{
+    flex: 1;
+    padding: 7px;
+}
+
+body {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
