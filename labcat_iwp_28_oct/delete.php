@@ -1,8 +1,4 @@
 <!-- A page for deleting a record -->
-<!-- Create a form with a text field for book_id -->
-<!-- Create a button to submit the form -->
-<!-- Create a link to index.php -->
-<!-- Create a link to create.php -->
 <html>
 <head>
     <meta charset="utf-8">
