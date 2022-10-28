@@ -31,7 +31,6 @@
             </ul>
         </div>
     </nav>
-    <!-- get book Id from user using form and pass it to update.php in the url -->
     <div class="container">
         <form action="update_book.php" method="get">
             <div class="form-group
