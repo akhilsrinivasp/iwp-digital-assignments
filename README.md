@@ -1,3 +1,5 @@
-# CSE3002 Internet and Web Programming
-- Lab Assignments related to the course are uploaded here 
-- The repository is mainly used to submit codes 
+- iwp-digital-assignments The repository is mainly used to submit codes
+
+
+hello, my name is pp, whenever i try to edit something using vi, idk if its a glitch, i am not able to type anything as such, 
+after sometime, it works though.
